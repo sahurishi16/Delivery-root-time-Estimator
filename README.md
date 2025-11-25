@@ -60,8 +60,4 @@ Evaluation metrics:
 
 ---
 
-## 🔧 How to Run
 
-### **1. Clone Repository**
-```bash
-git clone <your-repo-url>
